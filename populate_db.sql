@@ -86,7 +86,7 @@ INSERT INTO project_worker(project_id, worker_id) VALUES
 (18, 6),
 (18, 7),
 (18, 9),
-(18, 10)
+(18, 10),
 (19, 3),
 (19, 7),
 (19, 9);
